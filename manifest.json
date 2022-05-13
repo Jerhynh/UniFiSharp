@@ -1,0 +1,1062 @@
+{
+  "sitemap": {
+    "baseUrl": "https://anthturner.github.io/UniFiSharp/",
+    "changefreq": "monthly",
+    "lastmod": "2022-04-26T23:00:00+00:00"
+  },
+  "homepages": [],
+  "source_base_path": "D:/a/UniFiSharp/UniFiSharp/UniFiSharp/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "source_relative_path": "../UniFiSharp/UniFiSharpLogo.png",
+      "output": {
+        "resource": {
+          "relative_path": "UniFiSharp/UniFiSharpLogo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.DataTypeConversionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.DataTypeConversionExtensions.html",
+          "hash": "y88aUWYt+6R6GDfhfX2TKmrfpCKMTOrfXtknoJk5vc8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Discovery.DeviceInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Discovery.DeviceInformation.html",
+          "hash": "ixKp25my4uzClO4PIKswG1gBxh3A0Bouuzec8qhYxWI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Discovery.DeviceInformationV1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Discovery.DeviceInformationV1.html",
+          "hash": "enn8D5lYsjVe5x4vC0q/vyaoI+rxF0TIjXqlOn+Z41s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Discovery.DeviceInformationV2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Discovery.DeviceInformationV2.html",
+          "hash": "HThY5fFJn+KA2pa99aL1CkAGRvmszBU4jVbb817XI2A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Discovery.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Discovery.html",
+          "hash": "RDGy4VODb3recGoaF0dIVSAqeI/lO815wI9ocw7otQc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.IUniFiRestClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.IUniFiRestClient.html",
+          "hash": "rf5T56+/8p8D2c7xBuZi6F43iTybeAB6Ja3FjpcPDP4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.Attributes.GroupAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.Attributes.GroupAttribute.html",
+          "hash": "xpcdJ93LGaQUBGWVCd+Wr0MlCz7sPlt6bxN9HFL2CYc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.Attributes.IdentifierAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.Attributes.IdentifierAttribute.html",
+          "hash": "YoxKHBO4Nfu0r3R+sJ2zXtfGdZesQndkVKekac7nYDQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.Attributes.Levels.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.Attributes.Levels.html",
+          "hash": "wt2Bsz3I40PH2VoMXo+/c15BjStDhoPf8Ou6TDqncEM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.Attributes.ObjectVisibilityExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.Attributes.ObjectVisibilityExtensions.html",
+          "hash": "mTfureDaryHMvgjyiGgdqQ8RJ03esrM5UnBB8UKcjOA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.Attributes.ShowWithAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.Attributes.ShowWithAttribute.html",
+          "hash": "ypxsIQobWu3IAAGeRwatRPuV33sdImey0VTwOowzdkg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.Attributes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.Attributes.html",
+          "hash": "+gaLxLEXV20AE7jJhMFcu7HshYjAJ++suOqBGLsxlU4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.IJsonObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.IJsonObject.html",
+          "hash": "jPsB6Dg9MHRtam/m8FUqjsfJeInmuZPOsk6xNcsKcxA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonBroadcastDevice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonBroadcastDevice.html",
+          "hash": "NyKQdhzC8XyXVk9ktzJMLZC84FVz+RnFvKuH4pzJKXY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonBroadcastGroup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonBroadcastGroup.html",
+          "hash": "u6ZSmsrAliPKm+sBj/DE8XrCpztpBUeCGiABDtAYDp0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonClient.html",
+          "hash": "d4XBq9ZfKmswTvIZn5k2nkCTApr+UjwBLPCgNdYj0RQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonGuest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonGuest.html",
+          "hash": "We/CFJAGA9ue7zxhmcDMabCcIsD+Siq4ed0S5refoiU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonHotspotOperator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonHotspotOperator.html",
+          "hash": "GggFfPWadvdSOXoUMTPOtZcvNUmW4HmmnoBJduuWLTA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonHotspotVoucher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonHotspotVoucher.html",
+          "hash": "pItwW3B8IJzDdPEX34soUX+27kFB7rmuR7H2IjIY10s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonLoginResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonLoginResult.html",
+          "hash": "lydlSqwNSlGZo40NfIJR+mUlTpmhNSUlYzHyxArZXIc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonMediaFile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonMediaFile.html",
+          "hash": "CsbykHkYB5wx8RStY8xhuw5Yxq0dTJ5wUIC3AI1dIoQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonNetworkDevice.JsonConfigNetwork.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonNetworkDevice.JsonConfigNetwork.html",
+          "hash": "V6VeTVywh9mutCwzEw3IWhpNEuY+xRZ9k9T0T41tURY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonNetworkDevice.JsonEthernetTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonNetworkDevice.JsonEthernetTable.html",
+          "hash": "GwpxZJUy5qJYBGkIM8ceXE562vU0njaLl1jORpnMhw0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonNetworkDevice.JsonLink.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonNetworkDevice.JsonLink.html",
+          "hash": "iHDheDqOHeBwVQFl/kMTfjTLBT5GLvNmpQmzdn9J7XA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonNetworkDevice.JsonLldpTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonNetworkDevice.JsonLldpTable.html",
+          "hash": "2rl+HmoqepUyDbkEweYg+0IxolYf60DEDmRdVaEGjMw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonNetworkDevice.JsonMacTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonNetworkDevice.JsonMacTable.html",
+          "hash": "yU8kaAwi1taGE/mYQftJpWp3oynp2UW6db108Y+BnYw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonNetworkDevice.JsonNetworkTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonNetworkDevice.JsonNetworkTable.html",
+          "hash": "3kM5BGfS8zOExlqwN2R/9ADgkaCjRluKAkPgpOCLw84="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonNetworkDevice.JsonPortOverride.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonNetworkDevice.JsonPortOverride.html",
+          "hash": "TbIWtLvQTf83tf85ARBCqx/lj8Bpr0/+z8MR5P4LIqk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonNetworkDevice.JsonPortTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonNetworkDevice.JsonPortTable.html",
+          "hash": "pTZkSBchmiwDOtFRa/swMm3HZrE0zog6nPCtgxF70NA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonNetworkDevice.JsonRadioTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonNetworkDevice.JsonRadioTable.html",
+          "hash": "aTTnERatMB/VXNMslRcmm3l4wqyOt3iRbmU4I0pP5b0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonNetworkDevice.JsonSpeedtestStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonNetworkDevice.JsonSpeedtestStatus.html",
+          "hash": "MrfDmahQtsvBogvTCjZyb5io2QHa/Yhuiu8EFrMxB4w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonNetworkDevice.JsonSysStats.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonNetworkDevice.JsonSysStats.html",
+          "hash": "0DHQvHXMw5FH+XRFKwTjh0dglL+UyGwKyh86hwK4Yw0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonNetworkDevice.JsonVapTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonNetworkDevice.JsonVapTable.html",
+          "hash": "/gxYwA2YI34xwmH7yYTUpQ2gKKmx7q6nZvJ59erM1BY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonNetworkDevice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonNetworkDevice.html",
+          "hash": "oJu5FXKeBvuRlr3xLWb/KQJKYA71x+QkEUp/bfU4vEo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonPaymentTransactionInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonPaymentTransactionInformation.html",
+          "hash": "qO7JpAsWFBpLFGkoQ1dIjnvvBXPppo/r9Xf+YYLob9c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonPortForward.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonPortForward.html",
+          "hash": "QCziIsjLyqba/kTWecG850sbeIMJvrPgps0uFHihj7Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonRogueAp.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonRogueAp.html",
+          "hash": "IHptgd+bZurOXtJ9+b3SrbVV/CyVAsLaPzEFxgwxMuU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonSampleMedia.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonSampleMedia.html",
+          "hash": "3+nB91E+UCZqUC7oylY58HDUy2pgzRotE836PA2KL5k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonSite.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonSite.html",
+          "hash": "0/iIDRTEdK2l5V54n2L9x1UCmVFVB5Jknwm2cdrue4Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonSpectrumScan.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonSpectrumScan.html",
+          "hash": "VnV6t+8pifReECjdJjYTZTxdiH/8Sh8YObCvJlarLEg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonSpectrumTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonSpectrumTable.html",
+          "hash": "iYYQPzkN9jjzgw1Ub0BKigjU09AvULhYI+6NG37Agho="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonStreamInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonStreamInfo.html",
+          "hash": "md+U8VfV9tu5wvl3ZQNWtqc4i8PSZVcpVCtPcgEVfnA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonStreamStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonStreamStatus.html",
+          "hash": "Wi8tPppTXYA4U3toFe9dY5lWOosRTCBRk4FTAm16jVk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonSystemHealth.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonSystemHealth.html",
+          "hash": "/qC4p+9Uc+5GCNyG8WRreJQExETQpzH9TKPDJyUc8FY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonUser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonUser.html",
+          "hash": "AkZpNgFdrKQAghu9a/tjmFxaRgQQHIrHqneaXHxEeDo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonUserGroup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonUserGroup.html",
+          "hash": "thnpMn/oba0r10m1m+POSoiozcGVK3Q8OR2uXUjxFIs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.JsonWlanGroup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.JsonWlanGroup.html",
+          "hash": "Ksvbc/+kOd5gAl0fLsqSO6s977XBXBHY7zlLxeUby0M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Json.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Json.html",
+          "hash": "EwWOdMURD5rhMSLrgZrSGGAaSSTARPDMWkOsyOHl8Cg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.NetworkDeviceConfigurations-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.NetworkDeviceConfigurations-1.html",
+          "hash": "yWN0Equz9jrw+Mr1i8JqvbnRuhnuAdB+VS0fTw4wfn8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.NetworkDeviceConfigurations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.NetworkDeviceConfigurations.html",
+          "hash": "sJJW/gFmt1eWyNrd1Cxj2xnEpxzdNONtMYTKWlHbexI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Orchestration.Collections.ClientNetworkedDeviceCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Orchestration.Collections.ClientNetworkedDeviceCollection.html",
+          "hash": "EX++p9mZmvJA95+hogCw8zn1w1OWUwofz+7DgzrGYXY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Orchestration.Collections.InfrastructureNetworkedDeviceCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Orchestration.Collections.InfrastructureNetworkedDeviceCollection.html",
+          "hash": "p4XoKmmnEsnI5bRY3Qdu9bMhNTj09y0T8SEN2ZHHZXI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Orchestration.Collections.PortForwardCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Orchestration.Collections.PortForwardCollection.html",
+          "hash": "J8qBCv6uYu76OCBquqc/f03aCZUT4wNj1mPKMp7fbLQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Orchestration.Collections.RemotedDataCollection-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Orchestration.Collections.RemotedDataCollection-1.html",
+          "hash": "kEdiXWmZfzJYHuBqwZo+5tFK4Ove194G+HCCZgYtypo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Orchestration.Collections.UserGroupCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Orchestration.Collections.UserGroupCollection.html",
+          "hash": "Ga8Zdwl56bqBud8+FJ2AQ/0Tyr7IGeelToGrORLDOoE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Orchestration.Collections.WlanGroupCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Orchestration.Collections.WlanGroupCollection.html",
+          "hash": "uf0sMH2GmNcGlLWdN1fG1O05u3E70TzzXExpbHeOUKk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Orchestration.Collections.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Orchestration.Collections.html",
+          "hash": "cxt1Fs9Vl+0Ypz71WlBu79QjzL8UJw9gk9Oer8b5rFM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Orchestration.Devices.AccessPointInfrastructureNetworkedDevice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Orchestration.Devices.AccessPointInfrastructureNetworkedDevice.html",
+          "hash": "+2nL8+Mg57UfGP9sSLbU4hxYijCzgYadGsFV7s5DTus="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Orchestration.Devices.IClientNetworkedDevice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Orchestration.Devices.IClientNetworkedDevice.html",
+          "hash": "uu4W135ntz/qdgOHgX/MNpy2PP+MTdo3fOq/CScVoVA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Orchestration.Devices.IInfrastructureNetworkedDevice.NetworkDeviceState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Orchestration.Devices.IInfrastructureNetworkedDevice.NetworkDeviceState.html",
+          "hash": "hYOPg1J84CFPt8WOf0pw4GAISyNGg2/YsbVlIIH1bEk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Orchestration.Devices.IInfrastructureNetworkedDevice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Orchestration.Devices.IInfrastructureNetworkedDevice.html",
+          "hash": "PY6HSP9FfyWvhiMTKueJqsb5pMb2mp40MM4q02/ZNJ8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Orchestration.Devices.INetworkedDevice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Orchestration.Devices.INetworkedDevice.html",
+          "hash": "aKHS+5trrCDvyZO38FRnX/sI7THn2F3QpsBvFFevM9c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Orchestration.Devices.RouterInfrastructureNetworkedDevice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Orchestration.Devices.RouterInfrastructureNetworkedDevice.html",
+          "hash": "4fJxKiLYX4uO6COEpLyOJDfK3OfjJCzfyuicoM7NXmg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Orchestration.Devices.SwitchInfrastructureNetworkedDevice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Orchestration.Devices.SwitchInfrastructureNetworkedDevice.html",
+          "hash": "gPg8JkATZEhozpm78KC3HTiD+ggxAzUam61QViNInKQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Orchestration.Devices.UnknownInfrastructureNetworkedDevice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Orchestration.Devices.UnknownInfrastructureNetworkedDevice.html",
+          "hash": "xO5y1OG3///8kw2KXbHxsSVDlnZntpTHFtooIhAJICk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Orchestration.Devices.WiredClientNetworkedDevice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Orchestration.Devices.WiredClientNetworkedDevice.html",
+          "hash": "eAGFRVzsQxlmF2/ZdmQXcE0tHTOZ153nn5+eOgvcb2Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Orchestration.Devices.WirelessClientNetworkedDevice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Orchestration.Devices.WirelessClientNetworkedDevice.html",
+          "hash": "pqshBxyXZcUBhAwbx4ltSYuqB2OrFoeaexihntjGCkE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Orchestration.Devices.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Orchestration.Devices.html",
+          "hash": "i77M3z9y63kR8MFXEUixtYVBfIuU7Ya5EVfL+zqrqlc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Orchestration.UniFiOrchestrator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Orchestration.UniFiOrchestrator.html",
+          "hash": "HvjKo7UXkghFiJ2FsYz9a0t0BL2EMVienMVE6gq3V3Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.Orchestration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.Orchestration.html",
+          "hash": "WQYMgU3bLs/O8MqNkZw73yOWU2BmTLSZjQbOCc5UQ8I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.UniFiApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.UniFiApi.html",
+          "hash": "G51VO6eBEihHQkvnsuKBylSxqwqtYEqpov9GgZyHrLc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UniFiSharp.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UniFiSharp.html",
+          "hash": "lSDJyotwmniNQwon0OZ6JZ29tBgX8Xj+iixsRBgsyaA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "BS4H1JEqRCQFMl/lNQj8OkworK9DWYzEWKmQQuqC7qI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "tSg5g8KyAgmw0enrIhDLEXhp3fJbK1CX0cJK/9LjGU0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/clitool.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/clitool.html",
+          "hash": "Tz4twKcP6Ua0Oy2acgAJenZrwqmLS8UNM9P2TeNvfEA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/example.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/example.html",
+          "hash": "EuJ+JJtk6nkz5R4vSFMmUoo3LUE+cxYEwm3Yph67V54="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "gfFEGeAcjhCfcoAQoRg0o7OdUNVVMSxUajrI1tmdaHE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/orchestrator.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/orchestrator.html",
+          "hash": "CeXkET5ACUvp+uNYOSMcwfR+CqLeKyPyU9vDSLyZalc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "9iek3NAOAOCK0GDJbgQeAzoakgkmLwEmw2wxRgityIs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "oyY+21xmsR84Wo4HwY193Bri7dc6RZy6o+Qz6bL9OJs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "robots.txt",
+      "output": {
+        "resource": {
+          "relative_path": "robots.txt"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "X43kCyAoPeNU+YZ6YOjpi3FswPIfYQ5H1S4kxZQstww="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Disable incremental build by force rebuild option.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "ForceRebuild"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 6,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 72,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
